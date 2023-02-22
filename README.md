@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Computer Science student at the Georgia Institute of Technology with a strong focus on Software Development, Data Streaming, and Web development. My thread at the Institute is Intelligence and Info/Internetwork. I am an excellent team player and a quick learner. Tasked with a job, I can see myself delivering results beyond expectations.
+
 <!--
 **llam36/llam36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
