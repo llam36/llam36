@@ -1,4 +1,4 @@
-# 🌲Welcome to my page!
+# 🌲Your journey starts here!
 🐲 I am **Long Lam** from <img src="https://static.vecteezy.com/system/resources/thumbnails/011/571/331/small/circle-flag-of-vietnam-free-png.png" width="13"/> **Vietnam** <br>
 🌎 Currently live in Atlanta, GA, USA <br>
 💼 Former **NCR** Software Engineer Intern Summer 2022. Return intern Summer 2023 <br>
