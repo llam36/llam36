@@ -29,6 +29,7 @@
 ![Python](https://img.shields.io/badge/python-a?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![Scala](https://img.shields.io/badge/scala-a?style=for-the-badge&logo=scala&logoColor=white&color=DC322F)
 
+![AndroidStudio](https://img.shields.io/badge/android%20studio-androidstudio?style=for-the-badge&logo=androidstudio&logoColor=white&color=CC0000)
 ![Git](https://img.shields.io/badge/git-a?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![GitHub](https://img.shields.io/badge/github-a?style=for-the-badge&logo=github&logoColor=white&color=181717)
 ![IntelliJ](https://img.shields.io/badge/intellij-a?style=for-the-badge&logo=intellijidea&logoColor=white&color=000000)
