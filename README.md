@@ -1,7 +1,7 @@
 # 🌲Your journey starts here!
 🐲 I am **Long Lam** from <img src="https://static.vecteezy.com/system/resources/thumbnails/011/571/331/small/circle-flag-of-vietnam-free-png.png" width="13"/> **Vietnam** <br>
 🌎 Currently live in Atlanta, GA, USA <br>
-💼 Former **NCR** Software Engineer Intern Summer 2022. Return Intern Summer 2023 <br>
+💼 Former **NCR** Software Engineer Intern Summer 2022 - Return Intern Summer 2023 <br>
 
 # 🌲About me
 🐝 CS Sophomore with Intelligence and Info/Internetwork thread at **Georgia Tech** <br>
@@ -11,19 +11,30 @@
 # 🌲Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/long-lam/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=5865F2)](https://discordapp.com/users/LongLam#1325)
+[![GitHub](https://img.shields.io/badge/github-a?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/llam36)
+
+# 🌲Recent Projects
+📡 [**BTS-Generator-Fuel-Saver**](https://github.com/Tin-Viet-Corporation/BTS-Generator-Fuel-Saver) - A micro-controlled Fuel-Saver device alternating generator operation during power outages at BTS Station in Vietnam's Southwestern region.<br>
+🐶 [**Connection4Companion**](https://github.com/llam36/Connection4Companion) - A web application connecting disabled community members to service animals.<br>
+🐔 [**CrossTheRoad**](https://github.com/llam36/CrossTheRoad) - An Android Mobile game where the player must get as far as possible across the roads, rivers, and grass without losing.
+# 🌲My Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=llam36)](https://git.io/streak-stats)
 
 # 🌲Favorite Tech Stack
+### Data Streaming Tools
 ![ApacheKafka](https://img.shields.io/badge/apache%20Kafka-apachekafka?style=for-the-badge&logo=apacheKafka&logoColor=white&color=231F20)
-![ConfluentCloud](https://img.shields.io/badge/Confluent%20cloud-apachekafka?style=for-the-badge&logoColor=white&color=blue)
+![ConfluentCloud](https://img.shields.io/badge/Confluent%20cloud-apachekafka?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANgAAADYAQMAAACz7r+uAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAGUExURfn5+f///ykOvA0AAAACdFJOU/4Bi6sxnQAAAvRJREFUWMPt2E2WmzAMB3BRXh9LegNvewsfDXoz5ibk9QLMjgXFJcYfEsh/EmY72Uze/KLEsgFbIld+0bdd2j+iqitYT0S1bhM9X0a13lut2Uz7yyo2BGsUC0TV2eJXsi9NNiZrT9Ynq4+2Un4dbWZmDzYyaw82MGsOxihlGGzhRp2wWZgVNgkzwgZhjbBeWC1MUBwoKcOMAyVlmHGgpAwzDpROs5lnlJQUYhKkpBCTICWFmAQdF50tPWnphQRJSy8kSFp6IUHS0gsJkpZeSJC09EKCpKUXEryyc+p78qSmvidPaup78lc2KWaCjYq1wYY3rQnWK1a/YAr5SSN9yvykXdiiWndps2r20ibVzKWNqrWXxpbhl1gIYbUrW8ve79azsY18kYTZLR87cuNzOFOcpupsVZz6o21rUsfl9LYKa9JnpW0fXds0tvfMpLl42lKwTrOxZFbYXIizJ7PAXo+bCnHmZBbY+3FmKsd1yzlujF+4yrg2x21QjNuuuT+nuDFdxx8ijlm7mynYA8Q9SnGmFFe5p32GuHrl1riBxbX+Eo3Wusnk37P+Moxm3By+8xnXhc/vZt3C4vZHTrQumfU2C1vzOB/S0j+fcY/9sZnN5bi/moW4opXiPm/God8rjbOcX5dMzssk5swmMxfrMHmb83U2dP5/8V4xbsrX2WDDelOIH5kZf01Eq90Qruvtz/ZW3H9rvB+ez8FqiTaL+yg/W+1rFu7N9LwWzyV/vy/E6g/2fvJ7b9w7vMXn54/e28+8WfBnq99XqGCW76+d3Dv4PnbYA8T+dzS+bx6Nfh9MPb6c97j3rFetvrRBteZLdveMcvdMdPcMdvfMd/eMic6tt8/C6HyNDJ3nUR1wt7ZA9Qqqc+7WTrAeQ3Ucqv9Q3YjqTVSnovoW1cWwnkZ1OKrfUd2P+gWoz4D6E7CvgfohqI+C+i+ob4P6PbBPhPpLqC+F+lmoDwb7Z6jvhvp1sM+H+oOorwj7kY7KfUzY//zuGX/d/gMB55wWq9nhTwAAAABJRU5ErkJggg==&logoColor=white&color=blue)
 ![Docker](https://img.shields.io/badge/docker-a?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
 ![KafkaStreams](https://img.shields.io/badge/Kafka%20streams-apachekafka?style=for-the-badge&logo=apacheKafka&logoColor=white&color=172B4D)
 
+### Web Development Tools
 ![Figma](https://img.shields.io/badge/figma-a?style=for-the-badge&logo=figma&logoColor=white&color=F24E1E)
 ![MongoDB](https://img.shields.io/badge/MongoDB-a?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
 ![Next.js](https://img.shields.io/badge/next.js-nextdotjs?style=for-the-badge&logo=next.js&logoColor=white&color=000000)
 ![Node.js](https://img.shields.io/badge/node.js-nodedotjs.svg?style=for-the-badge&logo=node.js&logoColor=white&color=339933)
 ![Postman](https://img.shields.io/badge/postman-a?style=for-the-badge&logo=postman&logoColor=white&color=FF6C37)
 
+### Programming Languages
 ![C](https://img.shields.io/badge/c-a?style=for-the-badge&logo=c&logoColor=white&color=00599C)
 ![CSS](https://img.shields.io/badge/css-a?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![C++](https://img.shields.io/badge/c++-a?style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C)
@@ -33,6 +44,7 @@
 ![Python](https://img.shields.io/badge/python-a?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![Scala](https://img.shields.io/badge/scala-a?style=for-the-badge&logo=scala&logoColor=white&color=DC322F)
 
+### Development Toools
 ![AndroidStudio](https://img.shields.io/badge/android%20studio-androidstudio?style=for-the-badge&logo=androidstudio&logoColor=white&color=CC0000)
 ![Git](https://img.shields.io/badge/git-a?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![GitHub](https://img.shields.io/badge/github-a?style=for-the-badge&logo=github&logoColor=white&color=181717)
