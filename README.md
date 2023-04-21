@@ -18,7 +18,7 @@
 🐶 [**Connection4Companion**](https://github.com/llam36/Connection4Companion) - A web application connecting disabled community members to service animals <br>
 🐔 [**CrossTheRoad**](https://github.com/llam36/CrossTheRoad) - An Android Mobile game where the player must get as far as possible across the roads, rivers, and grass without losing
 # 🌲My Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=llam36)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=llam36&theme=rising-sun&hide_border=true&border_radius=5&card_width=1010)](https://git.io/streak-stats)
 
 # 🌲Favorite Tech Stack
 ### Data Streaming Tools
