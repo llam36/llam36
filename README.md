@@ -20,7 +20,7 @@
 > A web application connecting disabled community members to service animals <br>
 ### 🐔 [**CrossTheRoad**](https://github.com/llam36/CrossTheRoad) 
 > An Android Mobile game where the player must get as far as possible across the roads, rivers, and grass without losing <br>
-### 🧟 [**PlantsVsZombies**](https://github.com/llam36/PlantsVsZombies)
+### 🌱 [**PlantsVsZombies**](https://github.com/llam36/PlantsVsZombies)
 > A Game Boy Advance emulated PlantsVsZombies style game where the zombie must evade the plants' attacks and reach the house for the Brainzz prize
 
 # 🌲My Statistics
