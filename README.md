@@ -14,10 +14,10 @@
 [![GitHub](https://img.shields.io/badge/github-a?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/llam36)
 
 # 🌲Recent Projects
-**📡 [BTS-Generator-Fuel-Saver](https://github.com/Tin-Viet-Corporation/BTS-Generator-Fuel-Saver)** - A micro-controlled Fuel-Saver device alternating generator operation during power outages at BTS Station in Vietnam's Southwestern region <br><br>
-**🐶 [Connection4Companion](https://github.com/llam36/Connection4Companion)** - A web application connecting disabled community members to service animals <br><br>
-**🐔 [CrossTheRoad](https://github.com/llam36/CrossTheRoad)** - An Android game where the player must get as far as possible across the roads, rivers, and grass without losing<br><br>
-**🌱 [PlantsVsZombies](https://github.com/llam36/PlantsVsZombies)** - A GBA emulated PlantsVsZombies game where the zombie must evade the plants' attacks and reach the house for the Brainzz prize
+**📡 [BTS-Generator-Fuel-Saver](https://github.com/Tin-Viet-Corporation/BTS-Generator-Fuel-Saver) 📡** A micro-controlled Fuel-Saver device alternating generator operation during power outages at BTS Station in Vietnam's Southwestern region <br><br>
+**🐶 [Connection4Companion](https://github.com/llam36/Connection4Companion)** 🐶 A web application connecting disabled community members to service animals <br><br>
+**🐔 [CrossTheRoad](https://github.com/llam36/CrossTheRoad)** 🐔 An Android game where the player must get as far as possible across the roads, rivers, and grass without losing<br><br>
+**🌱 [PlantsVsZombies](https://github.com/llam36/PlantsVsZombies)** 🌱 A GBA emulated PlantsVsZombies game where the zombie must evade the plants' attacks and reach the house for the Brainzz prize
 
 # 🌲My Statistics
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=llam36&theme=rising-sun&hide_border=true&border_radius=5&card_width=1010)](https://git.io/streak-stats)
