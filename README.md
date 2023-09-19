@@ -1,7 +1,8 @@
 # 🌲Your journey starts here!
 🐲 I am **Long Lam** from <img src="https://static.vecteezy.com/system/resources/thumbnails/011/571/331/small/circle-flag-of-vietnam-free-png.png" width="13"/> **Vietnam** <br>
 🌎 Currently live in Atlanta, GA, USA <br>
-💼 Former **NCR** Software Engineer Intern Summer 2022 - Return Intern Summer 2023 <br>
+💼 Former **NCR** Software Engineer Intern Summer 2022 <br>
+💼 Return **NCR** Software Engineer Intern Summer 2023 - Won Best Overall Intern Project over 200+ projects <br>
 
 # 🌲About me
 🐝 CS Sophomore with Intelligence and Info/Internetwork thread at **Georgia Tech** <br>
