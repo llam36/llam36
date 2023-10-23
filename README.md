@@ -1,11 +1,12 @@
 # 🌲Your journey starts here!
 🐲 I am **Long Lam** from <img src="https://static.vecteezy.com/system/resources/thumbnails/011/571/331/small/circle-flag-of-vietnam-free-png.png" width="13"/> **Vietnam** <br>
 🌎 Currently live in Atlanta, GA, USA <br>
-💼 Former **NCR** Software Engineer Intern Summer 2022 <br>
-💼 Return **NCR** Software Engineer Intern Summer 2023 - Won Best Overall Intern Project over 200+ projects <br>
+💼 Former **NCR** Platform Software Engineer Intern Summer 2022 <br>
+💼 Former **NCR** Cloud Software Engineer Intern Summer 2023 - Won Best Overall Intern Project over 200+ projects <br>
+💼 Incoming **NCR Voyix** Software Engineer Intern Summer 2024 <br>
 
 # 🌲About me
-🐝 CS Sophomore with Intelligence and Info/Internetwork thread at **Georgia Tech** <br>
+🐝 CS Junior with Intelligence and Info/Internetwork thread at **Georgia Tech** <br>
 👀 Great interest in **Data Streaming** and **Web Development**<br>
 🚀 I do **Figma** UI design and experiment with **Food Garnishing** on my delicious dishes in my free time!
 
@@ -15,10 +16,14 @@
 [![GitHub](https://img.shields.io/badge/github-a?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/llam36)
 
 # 🌲Recent Projects
-**📡 [BTS-Generator-Fuel-Saver](https://github.com/Tin-Viet-Corporation/BTS-Generator-Fuel-Saver) 📡** A micro-controlled Fuel-Saver device alternating generator operation during power outages at BTS Station in Vietnam's Southwestern region <br><br>
-**🐶 [Connection4Companion](https://github.com/llam36/Connection4Companion)** 🐶 A web application connecting disabled community members to service animals <br><br>
-**🐔 [CrossTheRoad](https://github.com/llam36/CrossTheRoad)** 🐔 An Android game where the player must get as far as possible across the roads, rivers, and grass without losing<br><br>
-**🌱 [PlantsVsZombies](https://github.com/llam36/PlantsVsZombies)** 🌱 A GBA emulated PlantsVsZombies game where the zombie must evade the plants' attacks and reach the house for the Brainzz prize
+**📡 [BTS-Generator-Fuel-Saver](https://github.com/Tin-Viet-Corporation/BTS-Generator-Fuel-Saver) 📡** <br>
+A micro-controlled Fuel-Saver device alternating generator operation during power outages at BTS Station in Vietnam's Southwestern region <br><br>
+**🐶 [Connection4Companion](https://github.com/llam36/Connection4Companion)** 🐶 <br>
+A web application connecting disabled community members to service animals <br><br>
+**🐔 [CrossTheRoad](https://github.com/llam36/CrossTheRoad)** 🐔 <br>
+An Android game where the player must get as far as possible across the roads, rivers, and grass without losing<br><br>
+**🌱 [PlantsVsZombies](https://github.com/llam36/PlantsVsZombies)** 🌱<br>
+A GBA-emulated PlantsVsZombies game where the zombie must evade the plants' attacks and reach the house for the Brainzz prize
 
 # 🌲My Statistics
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=llam36&theme=rising-sun&hide_border=true&border_radius=5&card_width=1010)](https://git.io/streak-stats)
@@ -32,13 +37,15 @@
 
 ### Databases
 ![Ditto](https://img.shields.io/badge/ditto%20platform-a?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAABpFBMVEUAAAD////////////////////////////////////t///u///v///w///x///y///y///z///z///0///0///1///2///29v/39//39//w9//x+P/x+P/y+P/y+P/y+f/z+f/z+f/z+f/z+f/0+f/0+f/0+v/1+v/1+v/1+v/z+//0+//0+//0+//0+//1/P/1/P/1/P/1/P/1/P/1/P/y/P/z/P/z/P/z+f/1+v/z+v/z+v/z+v/z+v/z+v/0+v/0+v/0+//0+//0+//0+//0+//0+//1+//1+//z+//z+//0+v/0+v/0+v/1+v/1+v/z+v/z+v/z+v/z+v/0+v/0+v/0+v/0+v/0+v/0+v/0+v/1+//0+//0+//0+//0+//0+//0+//0+//0+//0+//0+//1+//z+v/0+v/0+v/0+v/0+v/0+v/0+v/0+v/0+v/1+v/z+v/z+v/0+v/0+v/0+v/0+v/0+v/0+//0+//0+//0+//0+//0+//0+//0+//0+//0+//z+//0+//0+//0+//0+//0+//0+//0+v/0+v/0+v+0QyTjAAAAi3RSTlMAAQIDBAUGBwgJDg8QERITFBUWFxgZGxweHyIkJSYnKCkqKywtLjAyNDVAQ0VGSElKS01OT1BSU1ZmaWprbG1vcHJzdXZ4eXt8foONj5CTlpiZmpucnp+hoqWnrLW3uLq8vb/AwcLExsnT1dbX2Nna29zd3t/g4eLk6uvs7e7v8PHy8/T1+fr7/P3+tLJpiwAAAq9JREFUaN7tmWlTk0EQhBES8CIQRI0HQojggaCgRAHlMOItiGIQLwQjiIogpxdJDEgC/Gm/zVrZLlJNxSlKd74+Vds7mfS7s7MFBS5cuHDh4v+Kwsojgazw7/qD782mgcO7aZELHxayY7K9SHDp86VsPDccYEXaNjat+N4g+NBHG2/2e0iRAxNglVf7hUcyNo6fZ1MJp+xV1joEl8fAJkZ9pEjJEFhlqkp4S9LGmW42lfpFoNInP7v3McCfg6xK77q9ynKj4NpZoPLIS4pUjINVRkqF94DaJ5vZVFpB7dOdgsvGwCbGykmR4ihYZbraGDYBan+dTaVufkvLeR8CPBdiVSKg9vEmwTUzQGWwmBTx57BcV9rGPy+yqSDLpbsE+16DTbz1s7UfBKvM1Ahvitt4/QabSghZbkAs5+kHeL6OVUGWSxjLnfgEVKJs7bHlyoRfA7VPtbKpNCPL9ZgzcgRsYryCFPEOgFVma4WfWwa1v8mmEtzackV9AC/Wsyrd4GdPtgg+js77pyWkiG8UrBIzlmtfs/HKZTYVZLlMRPC+l2ATE5WkCLbcSeENP2y8cYtNpXoaqDwxtX8A8NIpVqUTfW6N5Y69ByrDbN+ay3Jtv2y8eoVNpRFZrtf03y/AJt4dZGuPLLdgLHf2G6j9HTaVqimgMiSWK7wH8JfTrEoHsFwqLPjoJFB5toetPTrvY6bPvwqajtVLbCp3gUjijDlDvwJ+fyeKqPxcGoXX+At7cpx/eTGjxmdF5QOp8amHh1Y0v4dWro4XHr+3d2AjodISaTR3Gm0qbrhD+W24Na4OKpcgjeucxsUUX7GD+b1iawwLVMYeGgMcjVGUylBtO+PBN+R4UGXQqTGy1Rg+q4zRwyt//0GgchtPGwn2aUPlkUbluUnl4cyFCxcuXPx78RtIS/X2h3xa/wAAAABJRU5ErkJggg==&logoColor=white&color=CC0000)
-![MongoDB](https://img.shields.io/badge/MongoDB-a?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
+![MongoDB](https://img.shields.io/badge/MongoDB-a?style=for-the-badge&logo=mongodb&logoColor=white&color=339933)
 
 ### Web Development Tools
 ![Figma](https://img.shields.io/badge/figma-a?style=for-the-badge&logo=figma&logoColor=white&color=F24E1E)
 ![Next.js](https://img.shields.io/badge/next.js-nextdotjs?style=for-the-badge&logo=next.js&logoColor=white&color=000000)
 ![Node.js](https://img.shields.io/badge/node.js-nodedotjs.svg?style=for-the-badge&logo=node.js&logoColor=white&color=339933)
 ![Postman](https://img.shields.io/badge/postman-a?style=for-the-badge&logo=postman&logoColor=white&color=FF6C37)
+![React](https://img.shields.io/badge/-React.Js-61DAFB?logo=react&logoColor=white&style=for-the-badge&color=blue)
+![Express](https://img.shields.io/badge/Express.JS-339933?logo=express&logoColor=fff&style=for-the-badge)
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/c-a?style=for-the-badge&logo=c&logoColor=white&color=00599C)
