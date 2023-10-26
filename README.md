@@ -17,7 +17,7 @@
 
 # 🌲Recent Projects
 **📡 [BTS-Generator-Fuel-Saver](https://github.com/Tin-Viet-Corporation/BTS-Generator-Fuel-Saver) 📡** <br>
-A micro-controlled Fuel-Saver device alternating generator operation during power outages at BTS Station in Vietnam's Southwestern region <br><br>
+A micro-controlled fuel saver device regulating generator operation during power outages at BTSs in Vietnam's Southwestern region <br><br>
 **🐶 [Connection4Companion](https://github.com/llam36/Connection4Companion)** 🐶 <br>
 A web application connecting disabled community members to service animals <br><br>
 **🐔 [CrossTheRoad](https://github.com/llam36/CrossTheRoad)** 🐔 <br>
