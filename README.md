@@ -1,21 +1,21 @@
-# 🌲Your journey starts here!
+# 🌿 Your journey starts here!
 🐲 I am **Long Lam** from <img src="https://static.vecteezy.com/system/resources/thumbnails/011/571/331/small/circle-flag-of-vietnam-free-png.png" width="13"/> **Vietnam** <br>
 🌎 Currently live in Atlanta, GA, USA <br>
 💼 Former **NCR** Platform Software Engineer Intern Summer 2022 <br>
 💼 Former **NCR** Cloud Software Engineer Intern Summer 2023 - Won Best Overall Intern Project over 200+ projects <br>
 💼 Incoming **NCR Voyix** Software Engineer Intern Summer 2024 <br>
 
-# 🌲About me
+# 🌿 About me
 🐝 CS Junior with Intelligence and Info/Internetwork thread at **Georgia Tech** <br>
 👀 Great interest in **Data Streaming** and **Web Development**<br>
 🚀 I do **Figma** UI design and experiment with **Food Garnishing** on my delicious dishes in my free time!
 
-# 🌲Connect with me
+# 🌿 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/long-lam/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=5865F2)](https://discordapp.com/users/LongLam#1325)
 [![GitHub](https://img.shields.io/badge/github-a?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/llam36)
 
-# 🌲Recent Projects
+# 🌿 Recent Projects
 **📡 [BTS-Generator-Fuel-Saver](https://github.com/Tin-Viet-Corporation/BTS-Generator-Fuel-Saver) 📡** <br>
 A micro-controlled fuel saver regulating generator operation during power outages at BTSs in Vietnam's Southwestern region <br><br>
 **🐶 [Connection4Companion](https://github.com/llam36/Connection4Companion)** 🐶 <br>
@@ -25,10 +25,10 @@ An Android game where the player must get as far as possible across the roads, r
 **🌱 [PlantsVsZombies](https://github.com/llam36/PlantsVsZombies)** 🌱<br>
 A GBA-emulated PlantsVsZombies game where the zombie must evade the plants' attacks and reach the house for the Brainzz prize
 
-# 🌲My Statistics
+# 🌿 My Statistics
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=llam36&theme=rising-sun&hide_border=true&border_radius=5&card_width=1010)](https://git.io/streak-stats)
 
-# 🌲Favorite Tech Stack
+# 🌿 Favorite Tech Stack
 ### Data Streaming Tools
 ![ApacheKafka](https://img.shields.io/badge/apache%20Kafka-apachekafka?style=for-the-badge&logo=apacheKafka&logoColor=white&color=231F20)
 ![ConfluentCloud](https://img.shields.io/badge/Confluent%20cloud-apachekafka?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANgAAADYAQMAAACz7r+uAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAGUExURfn5+f///ykOvA0AAAACdFJOU/4Bi6sxnQAAAvRJREFUWMPt2E2WmzAMB3BRXh9LegNvewsfDXoz5ibk9QLMjgXFJcYfEsh/EmY72Uze/KLEsgFbIld+0bdd2j+iqitYT0S1bhM9X0a13lut2Uz7yyo2BGsUC0TV2eJXsi9NNiZrT9Ynq4+2Un4dbWZmDzYyaw82MGsOxihlGGzhRp2wWZgVNgkzwgZhjbBeWC1MUBwoKcOMAyVlmHGgpAwzDpROs5lnlJQUYhKkpBCTICWFmAQdF50tPWnphQRJSy8kSFp6IUHS0gsJkpZeSJC09EKCpKUXEryyc+p78qSmvidPaup78lc2KWaCjYq1wYY3rQnWK1a/YAr5SSN9yvykXdiiWndps2r20ibVzKWNqrWXxpbhl1gIYbUrW8ve79azsY18kYTZLR87cuNzOFOcpupsVZz6o21rUsfl9LYKa9JnpW0fXds0tvfMpLl42lKwTrOxZFbYXIizJ7PAXo+bCnHmZBbY+3FmKsd1yzlujF+4yrg2x21QjNuuuT+nuDFdxx8ijlm7mynYA8Q9SnGmFFe5p32GuHrl1riBxbX+Eo3Wusnk37P+Moxm3By+8xnXhc/vZt3C4vZHTrQumfU2C1vzOB/S0j+fcY/9sZnN5bi/moW4opXiPm/God8rjbOcX5dMzssk5swmMxfrMHmb83U2dP5/8V4xbsrX2WDDelOIH5kZf01Eq90Qruvtz/ZW3H9rvB+ez8FqiTaL+yg/W+1rFu7N9LwWzyV/vy/E6g/2fvJ7b9w7vMXn54/e28+8WfBnq99XqGCW76+d3Dv4PnbYA8T+dzS+bx6Nfh9MPb6c97j3rFetvrRBteZLdveMcvdMdPcMdvfMd/eMic6tt8/C6HyNDJ3nUR1wt7ZA9Qqqc+7WTrAeQ3Ucqv9Q3YjqTVSnovoW1cWwnkZ1OKrfUd2P+gWoz4D6E7CvgfohqI+C+i+ob4P6PbBPhPpLqC+F+lmoDwb7Z6jvhvp1sM+H+oOorwj7kY7KfUzY//zuGX/d/gMB55wWq9nhTwAAAABJRU5ErkJggg==&logoColor=white&color=blue)
