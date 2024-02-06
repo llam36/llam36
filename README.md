@@ -15,16 +15,6 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=5865F2)](https://discordapp.com/users/LongLam#1325)
 [![GitHub](https://img.shields.io/badge/github-a?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/llam36)
 
-# 🌿 Recent Projects
-**📡 [BTS-Generator-Fuel-Saver](https://github.com/Tin-Viet-Corporation/BTS-Generator-Fuel-Saver) 📡** <br>
-A micro-controlled fuel saver regulating generator operation during power outages at BTSs in Vietnam's Southwestern region <br><br>
-**🐶 [Connection4Companion](https://github.com/llam36/Connection4Companion)** 🐶 <br>
-A web application connecting disabled community members to service animals <br><br>
-**🐔 [CrossTheRoad](https://github.com/llam36/CrossTheRoad)** 🐔 <br>
-An Android game where the player must get as far as possible across the roads, rivers, and grass without losing<br><br>
-**🌱 [PlantsVsZombies](https://github.com/llam36/PlantsVsZombies)** 🌱<br>
-A GBA-emulated PlantsVsZombies game where the zombie must evade the plants' attacks and reach the house for the Brainzz prize
-
 # 🌿 My Statistics
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=llam36&theme=rising-sun&hide_border=true&border_radius=5&card_width=1010)](https://git.io/streak-stats)
 
