@@ -46,6 +46,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-a?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=231F40)
 ![Python](https://img.shields.io/badge/python-a?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![Scala](https://img.shields.io/badge/scala-a?style=for-the-badge&logo=scala&logoColor=white&color=DC322F)
+![Swift](https://img.shields.io/badge/swift-a?style=for-the-badge&logo=swift&logoColor=white&color=orange)
 ![Typescript](https://img.shields.io/badge/typescript-a?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
 
 ### Development Tools
