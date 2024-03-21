@@ -7,7 +7,7 @@
 
 # 🌿 About me
 🐝 CS Junior with Intelligence and Info/Internetwork thread at **Georgia Tech** <br>
-👀 Great interest in **Data Streaming** and **Web Development**<br>
+👀 Great interest in **Microservice Development**, **Data Streaming**, and **Web Development**<br>
 🚀 I do **Figma** UI design and experiment with **Food Garnishing** on my delicious dishes in my free time!
 
 # 🌿 Connect with me
