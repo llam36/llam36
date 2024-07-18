@@ -32,7 +32,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-a?style=for-the-badge&logo=mongodb&logoColor=white&color=339933)
 
 ### Android Development Stacks
-![Compose](https://img.shields.io/badge/jetpack%20compose-a?style=for-the-badge&logo=kotlin&logoColor=white&color=4285F4)
+![Compose](https://img.shields.io/badge/jetpack%20compose-a?style=for-the-badge&logo=jetpackcompose&logoColor=white&color=4285F4)
 
 ### Web Development Stacks
 ![Next.js](https://img.shields.io/badge/next.js-nextdotjs?style=for-the-badge&logo=next.js&logoColor=white&color=000000)
