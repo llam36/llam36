@@ -1,15 +1,6 @@
 # :ear_of_rice: Your journey starts here!
 🐲 I am **Long Lam** from <img src="https://static.vecteezy.com/system/resources/thumbnails/011/571/331/small/circle-flag-of-vietnam-free-png.png" width="13"/> **Vietnam** <br>
 🌎 Currently live in Atlanta, GA, USA <br>
-mermaid
-timeline
-    title Project Development Timeline
-    2025-01-01 : "Project Started"
-    2025-02-01 : "Initial Research & Planning"
-    2025-03-01 : "MVP Development"
-    2025-04-01 : "Testing and Bug Fixing"
-    2025-05-01 : "Beta Release"
-    2025-06-01 : "Final Release"
 ## :herb: About me
 🐝 CS Senior with Intelligence and Info/Internetwork thread at **Georgia Tech** <br>
 👀 Great interest in **Microservice Development**, **Data Streaming**, and **Web Development**<br>
