@@ -1,7 +1,8 @@
-# :ear_of_rice: Your journey starts here!
-🐲 I am **Long Lam** from <img src="https://static.vecteezy.com/system/resources/thumbnails/011/571/331/small/circle-flag-of-vietnam-free-png.png" width="13"/> **Vietnam** <br>
+<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/8c647f73-d6a1-40d5-a98f-0f92a6c45ab8" />
+
+# :ear_of_rice: About me
+🐲 I am Long Lam from <img src="https://static.vecteezy.com/system/resources/thumbnails/011/571/331/small/circle-flag-of-vietnam-free-png.png" width="23"/> Vietnam <br>
 🌎 Currently live in Atlanta, GA, USA <br>
-## :herb: About me
 🐝 CS Senior with Intelligence and Info/Internetwork thread at **Georgia Tech** <br>
 👀 Great interest in **Microservice Development**, **Data Streaming**, and **Web Development**<br>
 🚀 I do **Figma** UI design and experiment with **Food Garnishing** on my delicious dishes in my free time!
@@ -11,7 +12,7 @@
 ![NCR Corporation](https://img.shields.io/badge/NCR%20Corp-apachekafka?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAAAtCAMAAADP9FYsAAAAWlBMVEVHcEz+/v3z/vL9/v39//31/vTo/ub7/vr8/vz2/vX5/vj9/v38/vv7/vvz/vL7/vr4/vf6/vr6/vn4/vf7/vv7/vr2/vb6/vn5/vj6/vr8/vz////+/v7///+Df/xdAAAAG3RSTlMA+hLx6hoEotYiT+LDsAmYNXhmQbmMK29agswSGjjoAAADmUlEQVRIx31WWaKDIAwURBYBFVTcuP85HypL6rPlq4AdksxkqarH6sS42mWx7dBQeE6bcTXzvC3rgKvfqxuM5jVC3iNEOLMuAQnLwrk/FyJ7vzY/MFpNvD/i8of3ko1duHCzBOfhAvHNfQEZNTqey9cbxUb6/xfSvNmDN2BH+Xhyw/Ryfpqkxn8gQvu3L3XTyuN9eU8W+gni1NuDAcSS4/tCW/cAOd7caWztj58wwBo8AQYClVypXSKvxFoDB5BUWmslT8IzzFIENZcHkexbh7sOi9a4trjjSd8KTCkNF6xw5kmbUNryotxEMbHNX3ukgWKp68s/9kg4ViUQA9SPLKox2O6AEbryfDffRxYlz3uYIQPPdpO16VGAAqEc9uzT9TLOewZBXD72sr3V9EHswPPbl/dJ9wpKWihfAiimixaPZgCToynPUPY++g4F3STu/VGvZQOIrWifTm34PrrvGRSQLoG1WPv00NY0xRonyz/HqE5oCmaF4uXc3FvZ4oWX2GRjeFOZ+HMvoe36LE5kcDacj00ABLGJET1jEZ+9I32DFCmjDc/JHTmKKz4o60FEQSFbRS58jhvdUPZnxhsqTMW8z7Lqoly9qVJw14SyJJBThSaDFKYCzE0E1Vm+MdAoZhW1OUWCCsMmxn5tNJByfJAVlOPDFlcyUDepMPg6MAW4rx4oW/ZoedgSStRK4h1g6tzkCE5H+q96cERXcoOIXF0upl7KW8xAH6KRmFZZBgHmLNu5MACmwgVIpaHOWb3EV+oBVCey4VyiAFPnBuQjEOxIPqvN9ciATUwMH5haiiWweOA95VGpdF6CntmxlANnM6lBewJ5n6ubBXZ5BowdE3WBqdxMwgaWMR5fuurLIP93hYpe9fLqjSR3fyVgR9bJ5UvJpdoUOV2FNXQg1qylmexwTMjFI1W3IbNRmw72S7ngpbQMDvuD07l4pOpmii4Z+LQRghWKJaxitvQHOeQGC+aAfkx57wwvrTT0gdjXOrcoVMrYAsNdcOqdGWvNPMGRg7RuJ4rN29YrOEVAYukIp6W7a8BJJFSXs0TF9TlVwNGjlT8mjFyinjOOV4/pbuT+68wk20a/DmVaPEcyp7/AeDW46e2unl8G327h/6eyQNrcXDF5nAfwlr6OqmJ7uBUI0yOtupGRBwral++Ds7BaRi2E1+p9HruYVkaR++I852z9PcV3bp31zjlXzIzwOTzYWU9KTcy04unLH51/vZBHfJh3AAAAAElFTkSuQmCC&logoColor=white&color=51B948&logoWidth=23)
 
 ## :herb: Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/long-lam/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/long-lam/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=5865F2)](https://discordapp.com/users/LongLam#1325)
 [![GitHub](https://img.shields.io/badge/github-a?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/llam36)
 
