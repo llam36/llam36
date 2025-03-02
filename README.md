@@ -1,7 +1,7 @@
-<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/8c647f73-d6a1-40d5-a98f-0f92a6c45ab8" />
+<img width="1834" alt="My banner" src="https://github.com/user-attachments/assets/b22ce15f-3a52-4443-bcb2-307184ca0e7a" />
 
 # :ear_of_rice: About me
-🐲 I am Long Lam from <img src="https://static.vecteezy.com/system/resources/thumbnails/011/571/331/small/circle-flag-of-vietnam-free-png.png" width="23"/> Vietnam <br>
+🐲 I am Long Lam from <img src="https://static.vecteezy.com/system/resources/thumbnails/011/571/331/small/circle-flag-of-vietnam-free-png.png" width="13"/> Vietnam <br>
 🌎 Currently live in Atlanta, GA, USA <br>
 🐝 CS Senior with Intelligence and Info/Internetwork thread at **Georgia Tech** <br>
 👀 Great interest in **Microservice Development**, **Data Streaming**, and **Web Development**<br>
