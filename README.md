@@ -4,7 +4,7 @@
 🐲 I am Long Lam from <img src="https://static.vecteezy.com/system/resources/thumbnails/011/571/331/small/circle-flag-of-vietnam-free-png.png" width="13"/> Vietnam <br>
 🌎 Currently live in Atlanta, GA, USA <br>
 🐝 CS Senior with Intelligence and Info/Internetwork thread at **Georgia Tech** <br>
-👀 Great interest in **Microservice Development**, **Data Streaming**, and **Web Development**<br>
+👀 Great interest in **Microservice Infrastructure Development**, **Fullstack Web Development**, and **Data Streaming**<br>
 🚀 I do **Figma** UI design and experiment with **Food Garnishing** on my delicious dishes in my free time!
 # :desktop_computer:	Software Engineering Internships
 [![Tesla Badge](https://img.shields.io/badge/Tesla,%20Inc-C00?logo=tesla&logoColor=fff&style=for-the-badge)](https://www.tesla.com/)
